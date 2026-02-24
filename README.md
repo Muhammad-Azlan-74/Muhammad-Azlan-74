@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Muhammad-Azlan-74
-- 👀 I’m interested in Mobile Application Development and Machine Learning
-- 🌱 I’m currently learning Python and Dart alongwith their platforms
-- 💞️ I’m looking to collaborate on Differennt Projects aligning with my interest and learning
-- 📫 You guys can contact with me on azlangujjar28@gmail.com
-
-<!---
-Muhammad-Azlan-74/Muhammad-Azlan-74 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Muhammad-Azlan-74  
+- 💼 Experienced Software Engineer specializing in High-Performance Computing (HPC), Cloud Infrastructure, and Mobile Application Development  
+- ⚡ 3+ years of professional experience building scalable and high-quality Flutter applications  
+- 🤖 Skilled in Python for AI/ML solutions, HPC system administration, and DevOps practices  
+- 🌱 Continuously exploring cutting-edge technologies in distributed computing, AI, and mobile platforms  
+- 📫 Reach me at azlangujjar28@gmail.com for collaboration or professional opportunities

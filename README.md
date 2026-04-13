@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Muhammad-Azlan-74  
-- 💼 Experienced Software Engineer specializing in High-Performance Computing (HPC), Cloud Infrastructure, and Mobile Application Development  
-- ⚡ 3+ years of professional experience building scalable and high-quality Flutter applications  
-- 🤖 Skilled in Python for AI/ML solutions, HPC system administration, and DevOps practices  
-- 🌱 Continuously exploring cutting-edge technologies in distributed computing, AI, and mobile platforms  
-- 📫 Reach me at azlangujjar28@gmail.com for collaboration or professional opportunities
+👋 Hi, I’m @Muhammad-Azlan-74
+💼 Software Engineer specializing in Flutter Mobile Development, Cloud Systems, and Scalable Applications
+⚡ 3+ years of experience building production-grade Flutter applications
+🤖 Skilled in Python for AI/ML solutions, backend systems, and automation
+☁️ Experienced in system design, APIs, and scalable architecture for real-world applications
+🌱 Currently exploring distributed systems, AI integration, and modern mobile architectures
+📫 Reach me at: azlangujjar28@gmail.com
+ for collaboration or opportunities
